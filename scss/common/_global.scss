@@ -2,10 +2,10 @@
     width: 1040px;
     clear: both;
     padding:10px 0;
-    
+
     @media screen and (max-width: 1080px){
         width: 100%;
-    }  
+    }
 }
 
 .extra-spacing {
@@ -41,7 +41,7 @@ p {
 
 .bg-grey {
   background-color: $grey-dark;
-} 
+}
 
 .bg-green {
   background-color: $green;
@@ -140,7 +140,7 @@ p {
 /**
  * Programme
  */
- 
+
  @media screen and (min-width: 768px) {
     #site-programme > .container > .row {
         display:  -webkit-box;
@@ -149,40 +149,40 @@ p {
         display:         flex;
     }
 }
- 
+
 .timetable {
     margin: 0;
-    
+
     span {
         margin-top: 10px;
         margin-bottom: 10px;
         display: block;
         font-size: 1.2em;
     }
-    
+
     .row {
         display:  -webkit-box;
         display: -webkit-flex;
         display:  -ms-flexbox;
         display:         flex;
     }
-    
+
     .col-xs-3 {
         border-right: 1px solid $color-medium;
         border-bottom: 1px solid $color-medium;
     }
-    
+
     .col-xs-9 {
         border-bottom: 1px solid $color-medium;
     }
-    
+
     @media screen and (min-width: 768px) {
         margin: 1em;
-        
+
         .row:last-of-type {
             .col-xs-9, .col-xs-3 {
                 border-bottom: none;
             }
         }
     }
-} 
+}

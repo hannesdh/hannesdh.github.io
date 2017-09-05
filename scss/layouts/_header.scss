@@ -14,7 +14,7 @@ nav {
         border-radius: 0;
         border: none;
     }
-    
+
     .navbar-right {
         margin: 0;
     }
@@ -22,11 +22,11 @@ nav {
     .navbar-brand {
         padding-top:0;
     }
-    
+
     .navbar-brand > img {
         max-height: 125px;
     }
-        
+
     ul.nav {
         li {
             background-color: darken($white, 2%);
@@ -37,13 +37,13 @@ nav {
                 color: $yellow !important;
                 padding: 20px 20px 15px 20px;
                 border-bottom: 5px solid transparent;
-                
-                &:hover {     
+
+                &:hover {
                     color: $yellow !important;
                     border-bottom: 5px solid $yellow;
                     background-color: $white;
                 }
-                
+
                 @media screen and (min-width: 768px) and (max-width:830px) {
                     padding-right: 10px;
                     padding-left: 10px;
@@ -64,7 +64,7 @@ nav {
 @media screen and (max-width:767px) {
     .collapse, .collapsing {
         ul {
-            margin-top: 40px; 
+            margin-top: 40px;
             li {
                 float: left;
                 width: 80%;

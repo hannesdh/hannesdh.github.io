@@ -29,7 +29,8 @@ p {
   font-size: 1.2em; }
 
 .bg-white {
-  background-color: white; }
+  background-color: white;
+}
 
 .bg-grey-light {
   background-color: #f2f2f2; }
@@ -380,7 +381,7 @@ footer a {
   .partner-logos a {
     margin: 15px; }
 
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -397,7 +398,7 @@ html * {
 img {
   max-width: 100%; }
 
-/* -------------------------------- 
+/* --------------------------------
 
 Modules - reusable parts of our design
 
@@ -414,9 +415,9 @@ Modules - reusable parts of our design
   display: table;
   clear: both; }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main components 
+Main components
 
 -------------------------------- */
 #cd-timeline {
