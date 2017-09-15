@@ -389,10 +389,14 @@ footer a {
   -webkit-justify-content: center;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
-  justify-content: center; }
+  justify-content: center;
+ }
   .partner-logos a {
     margin: 15px; }
-
+.partner-logos img{
+	  max-height: 150px;
+  max-width:150px;
+}
 /* --------------------------------
 
 Primary style
