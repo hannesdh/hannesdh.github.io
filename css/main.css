@@ -252,6 +252,12 @@ footer a {
   #site-intro h2 {
     font-size: 1.6em;}
 
+  .big-button {
+  padding: 0.5em 1em !important;
+  font-size: 4.4em;
+
+}
+
   }
 
 #site-info .info-container {
@@ -599,7 +605,7 @@ Main components
 
 .big-button {
   float: center;
-  padding: 1.4em 3.5em;
+  padding: 1em 3em;
   background: #EE9A3D;
   color: #4074AE;
   font-size: 1.4em;
