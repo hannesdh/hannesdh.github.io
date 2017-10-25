@@ -28,6 +28,10 @@ p {
   text-align: left;
   font-size: 1.2em; }
 
+li {
+  text-align: left;
+  font-size: 1.2em; }
+
 .bg-white-header{
  background: white url("../assets/pictures/header.jpg") center no-repeat;
  opacity: 0.75;
