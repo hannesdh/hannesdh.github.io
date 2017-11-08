@@ -404,8 +404,9 @@ footer a {
   .partner-logos a {
     margin: 15px; }
 .partner-logos img{
-	  max-height: 150px;
-  max-width:150px;
+
+  max-height: 115px;
+  max-width:115px;
 }
 /* --------------------------------
 
