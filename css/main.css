@@ -52,7 +52,7 @@ li {
   background-color: #4074AE; }
 
 .bg-blue {
-  background: #67E7F0 url("../assets/images/patternmarkt.jpg");
+  background: #4074AE;
  }
 
 .bg-yellow {
@@ -214,9 +214,9 @@ footer .container {
         justify-content: center; } }
 
 footer a {
-  color: #147ECC; }
+  color: #fff; }
   footer a:hover {
-    color: #147ECC; }
+    color: #fff; }
 
 /**
  * Global Variables and CSS
